@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root body #root {
+  height: 100vh;
+  width: 100vw;
+  font-family: "Poppins", sans-serif;
+}
+
+:root {
+  --color-primary: #dc0a2d;
+  --color-primary-opacity-30: rgba(220, 10, 45, 0.3);
+
+  --color-bug: #a7b723;
+  --color-bug-opacity-30: rgba(167, 183, 35, 0.3);
+
+  --color-dark: #75574c;
+  --color-dark-opacity-30: rgba(117, 87, 76, 0.3);
+
+  --color-dragon: #7037ff;
+  --color-dragon-opacity-30: rgba(112, 55, 255, 0.3);
+
+  --color-electric: #f9cf30;
+  --color-electric-opacity-30: rgba(249, 207, 48, 0.3);
+
+  --color-fairy: #e69eac;
+  --color-fairy-opacity-30: rgba(230, 158, 172, 0.3);
+
+  --color-fighting: #c12239;
+  --color-fighting-opacity-30: rgba(193, 34, 57, 0.3);
+
+  --color-fire: #f57d31;
+  --color-fire-opacity-30: rgba(245, 125, 49, 0.3);
+
+  --color-flying: #a891ec;
+  --color-flying-opacity-30: rgba(168, 145, 236, 0.3);
+
+  --color-ghost: #70559b;
+  --color-ghost-opacity-30: rgba(112, 85, 155, 0.3);
+
+  --color-normal: #aaa67f;
+  --color-normal-opacity-30: rgba(170, 166, 127, 0.3);
+
+  --color-grass: #74cb48;
+  --color-grass-opacity-30: rgba(116, 203, 72, 0.3);
+
+  --color-ground: #dec16b;
+  --color-ground-opacity-30: rgba(222, 193, 107, 0.3);
+
+  --color-ice: #9ad6df;
+  --color-ice-opacity-30: rgba(154, 214, 223, 0.3);
+
+  --color-poison: #a43e9e;
+  --color-poison-opacity-30: rgba(164, 62, 158, 0.3);
+
+  --color-psychic: #fb5584;
+  --color-psychic-opacity-30: rgba(251, 85, 132, 0.3);
+
+  --color-rock: #b69e31;
+  --color-rock-opacity-30: rgba(182, 158, 49, 0.3);
+
+  --color-steel: #b7b9d0;
+  --color-steel-opacity-30: rgba(183, 185, 208, 0.3);
+
+  --color-water: #6493eb;
+  --color-water-opacity-30: rgba(100, 147, 235, 0.3);
+
+  --color-dark: #212121;
+  --color-dark-opacity-30: rgba(33, 33, 33, 0.3);
+}
